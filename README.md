@@ -1,16 +1,15 @@
 # IMDb Movie Dataset - Exploratory Data Analysis (EDA)
 
 ## 📌 Overview
-This repository contains an Exploratory Data Analysis (EDA) on an IMDb movie dataset. The goal is to clean, analyze, and visualize trends in movie releases, genres, and ratings.
+This repository contains an Exploratory Data Analysis (EDA) on an IMDb movie dataset. The goal is to clean, analyze, and visualize trends in movie releases & genres.
 
 ## 📂 Dataset
-- The dataset contains movie-related information, including titles, release years, genres, and ratings.
+- The dataset contains movie-related information, including titles, release years and genres.
 - Preprocessing steps include handling missing values, extracting relevant features, and structuring data for visualization.
 
 ## 📊 Analysis & Insights
 - **Release Year Trends:** Visualizing how movie production has evolved over time.
 - **Genre Distribution:** Analyzing the most common genres and their frequency.
-- **Ratings Exploration:** Understanding the distribution of ratings across different movies.
 - **Correlation Analysis:** Investigating relationships between various movie attributes.
 
 ## 🛠️ Technologies Used
