@@ -19,7 +19,7 @@ This repository contains an Exploratory Data Analysis (EDA) on an IMDb movie dat
 ## 🚀 How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/IMDb-EDA-Movie-Analysis.git
+   git clone https://github.com/LouaiMuhammed/IMDb-EDA-Movie-Analysis.git
    ```
 2. Install dependencies:
    ```bash
